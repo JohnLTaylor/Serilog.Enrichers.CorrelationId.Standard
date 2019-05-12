@@ -11,7 +11,7 @@ namespace Serilog
     public static class TraceIdentifierLoggerConfigurationExtensions
     {
         /// <summary>
-        /// Enrich log events with a TraceIdentifier property containing the current <see cref="TraceIdentifier"/>.
+        /// Enrich log events with a TraceIdentifier property containing the current TraceIdentifier/>.
         /// </summary>
         /// <param name="enrichmentConfiguration">Logger enrichment configuration.</param>
         /// <returns>Configuration object allowing method chaining.</returns>
