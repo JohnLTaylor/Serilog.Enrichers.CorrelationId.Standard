@@ -1,0 +1,2 @@
+[![Build Status](https://jltconsulting.visualstudio.com/CosmosDbRepository/_apis/build/status/JohnLTaylor.Serilog.Enrichers.TraceIdentifier?branchName=master)](https://jltconsulting.visualstudio.com/CosmosDbRepository/_build/latest?definitionId=4&branchName=master)
+[![NuGet](http://img.shields.io/nuget/v/Serilog.Enrichers.TraceIdentifier.svg)](https://www.nuget.org/packages/Serilog.Enrichers.TraceIdentifier/)
